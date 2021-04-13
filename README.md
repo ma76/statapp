@@ -1,2 +1,3 @@
 # statapp
-The repository is about one of my projects
+
+This is a statistic application with python
